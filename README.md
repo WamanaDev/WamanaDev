@@ -1,8 +1,10 @@
-# Olá, eu sou o WamanaDev! 👋
+# Olá, eu sou o Wictor Pamplona 👋
 
-**Desenvolvedor Full Stack JavaScript/TypeScript** | **Node.js + React** | Em busca de primeira oportunidade como Desenvolvedor Júnior
+**Desenvolvedor Full Stack Júnior** focado em **Node.js, NestJS, React e TypeScript**, em busca da minha primeira oportunidade formal na área.
 
-De cuidador social a desenvolvedor de software. Faço a transição de carreira unindo resiliência humana com lógica técnica. Sou um programador autodidata movido pela curiosidade e prática, com facilidade para aprender novas tecnologias e criar **soluções Full Stack robustas**.
+De cuidador social a desenvolvedor de software: fiz essa transição de carreira sozinho, estudando e construindo projetos reais até colocar um sistema Full Stack completo em produção. Sou autodidata, gosto de entender o "porquê" das coisas e prefiro aprender construindo.
+
+📍 Carapicuíba – SP  ·  🎓 Análise e Desenvolvimento de Sistemas (UFBRA, em andamento)  ·  🟢 Disponibilidade imediata
 
 ---
 
@@ -10,67 +12,36 @@ De cuidador social a desenvolvedor de software. Faço a transição de carreira 
 
 | Área | Tecnologias |
 | :--- | :--- |
-| **Backend** | Node.js, NestJS, TypeScript, Express.js, APIs REST |
-| **Frontend** | React, Next.js, TypeScript, Tailwind CSS, React Native |
-| **Banco de Dados** | PostgreSQL, MySQL, Supabase, SQL |
-| **Ferramentas & DevOps** | Git/GitHub, Docker, Vercel, Cloudflare R2 |
-| **Tópicos Avançados** | Autenticação JWT, Arquitetura em Camadas, Clean Code |
+| **Backend** | Node.js, NestJS, TypeScript, Express.js, APIs REST, JWT |
+| **Frontend** | React, Next.js, React Native (Expo), Tailwind CSS |
+| **Banco de Dados** | PostgreSQL, MySQL, Supabase (incl. Realtime) |
+| **Infra & Deploy** | Vercel, Cloudflare R2, Serverless Functions, Git/GitHub |
 
 ---
 
-## 🚀 Projetos em Produção
+## 🚀 Projeto em Destaque: JP Mídia Indoor
 
-### 1. **JP Mídia Indoor** - Dashboard & Player
-Sistema completo de **Digital Signage** para gerenciar e exibir conteúdo em telas comerciais.
+Sistema Full Stack de **Digital Signage** que idealizei e desenvolvi sozinho, do zero ao deploy — três aplicações integradas (dashboard web, API e player Android TV) com sincronização em tempo real via Supabase Realtime.
 
-**O que foi construído:**
-- ✅ Dashboard administrativo (Next.js + React)
-- ✅ API REST (Node.js)
-- ✅ Aplicativo Player (React Native/Expo)
-- ✅ Sincronização em tempo real entre os sistemas
-- ✅ Autenticação JWT e controle de acesso
+- 🌐 [Demo ao vivo](https://jpdash20.vercel.app/)
+- 💻 [Dashboard](https://github.com/WamanaDev/JP-Midia-Indoor) · [Player Android TV](https://github.com/WamanaDev/Midia-Indoor-APP)
 
-**Desafios resolvidos:**
-- Sincronização eficiente de mídias entre dashboard e múltiplos devices
-- Upload otimizado de arquivos para Cloudflare R2
-- Arquitetura escalável para suportar múltiplas unidades de mídia
-
-**Tecnologias:** TypeScript, Next.js, React, NestJS, PostgreSQL, Supabase, Vercel, Cloudflare R2
-
-**Links:**
-- 🌐 [Dashboard Live](https://jpdash20.vercel.app/)
-- 💻 [Dashboard Repositório](https://github.com/WamanaDev/JP-Midia-Indoor)
-- 📱 [Player Repositório](https://github.com/WamanaDev/Midia-Indoor-APP)
+*(Nasceu como projeto de uma empresa própria que não avançou comercialmente — hoje é meu principal case técnico de arquitetura Full Stack.)*
 
 ---
 
-## 💡 Principais Aprendizados
+## 💡 O que eu trago para uma equipe
 
-- **Full Stack desde o zero:** Concebi, desenvolvi e fiz deploy de um sistema completo
-- **Produção real:** Experiência com ambientes de produção, CI/CD e hospedagem
-- **Trabalho colaborativo:** Integração entre múltiplos aplicativos (web, mobile, API)
-- **Resolução de problemas:** Debugging, otimização e documentação de código
-
----
-
-## 📊 Métrica de Competência
-
-**Nível esperado:** Desenvolvedor Júnior pronto para entrar em uma equipe
-**Diferenciais:** 
-- Portfólio com projetos reais em produção ✅
-- Full Stack (não apenas frontend ou backend)
-- Conhecimento de deployment e infraestrutura básica
+- **Visão de produto ponta a ponta** — já passei por conceber, construir e colocar em produção um sistema completo, sozinho.
+- **Autonomia e resiliência** — construídas em experiências anteriores coordenando equipes e lidando com pessoas em situações complexas.
+- **Fome de aprender** — uso IA (Cursor, LLMs) como ferramenta de produtividade, não de atalho, e busco entender profundamente o que escrevo.
 
 ---
 
 ## 📩 Vamos conversar?
 
-Estou em busca da minha primeira oportunidade como **Desenvolvedor Júnior Full Stack** (JavaScript/TypeScript).
+Estou em busca da minha primeira oportunidade como **Desenvolvedor Full Stack Júnior (Node.js/React)**.
 
-- **Email:** wictorpamp@gmail.com
-- **GitHub:** https://github.com/WamanaDev
-- **Localização:** São Paulo - SP, Brasil
-
----
-
-*"Aprender fazendo" é meu lema. Cada projeto é uma oportunidade de evoluir em arquitetura, qualidade e práticas modernas.*
+- 💼 [LinkedIn](https://www.linkedin.com/in/wictor-pamplona)
+- 📧 wictorpamp@gmail.com
+- 💻 [github.com/WamanaDev](https://github.com/WamanaDev)
