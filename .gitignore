@@ -1,0 +1,12 @@
+# Material interno da marca (estratégia, relatórios, decisões) — não publicar
+.agents/
+
+# Fotos originais em alta resolução e assinatura real
+brand/fotos/
+assinatura.jpg
+
+# Ambiente / build
+.env*
+node_modules/
+.next/
+.vercel/
