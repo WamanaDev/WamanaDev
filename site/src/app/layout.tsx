@@ -8,7 +8,7 @@ const figtree = Figtree({ variable: "--font-figtree", subsets: ["latin"] });
 const caveat = Caveat({ variable: "--font-caveat", subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  metadataBase: new URL("https://wamanadev.com.br"),
+  metadataBase: new URL("https://www.wamanadev.com.br"),
   title: "Wictor Pamplona — Mais tempo pro que importa.",
   description:
     "Eu transformo o trabalho manual do seu negócio em sistemas simples, feitos sob medida e explicados sem jargão. Atendo todo o Brasil.",
@@ -16,7 +16,7 @@ export const metadata: Metadata = {
     title: "Wictor Pamplona — Mais tempo pro que importa.",
     description:
       "Sistemas simples e sob medida para pequenos negócios. Preço fechado na proposta e 60 dias de ajustes.",
-    url: "https://wamanadev.com.br",
+    url: "https://www.wamanadev.com.br",
     siteName: "Wictor Pamplona",
     locale: "pt_BR",
     type: "website",
